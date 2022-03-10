@@ -5,7 +5,7 @@ import { Playground, store } from "graphql-playground-react";
 
 ReactDOM.render(
   <Provider store={store}>
-    <Playground endpoint="https://api.graph.cool/simple/v1/swapi" />
+    <Playground endpoint="asdkjahsdjk" />
   </Provider>,
   document.body
 );
